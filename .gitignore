@@ -1,3 +1,4 @@
 node_modules/
 .env
 myappkey.pem
+frontend/node_modules
